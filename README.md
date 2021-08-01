@@ -14,3 +14,22 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ##### Figure 3: Lot summary
 ![Lot_Summary - Deliverable 2](https://user-images.githubusercontent.com/81983110/127785975-dc57d004-a480-46f1-9487-6905b5006ccf.png)
+
+## T-Tests on Suspension Coils
+In this analysis, I used t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. To determine this, it is critical to examine the p-value for each t-test.
+
+##### Figure 4: T-Test for All Manufacturing Lots
+![Total T-Test - Deliverable 3](https://user-images.githubusercontent.com/81983110/127787125-c7616bac-8b43-4a7c-865d-61bdf6a3a1b3.png)
+Across all lots, our t-test returned a p-value of 0.06028, which is above our significance level of 0.05. As such, we do not reject the null hypothesis. Therefore, we can assume that  the mean of the PSI results across lots is not statistically different than the population mean. 
+
+##### Figure 5: T-Test for Lot 1
+![Lot 1 T-Test - Deliverable 3](https://user-images.githubusercontent.com/81983110/127787121-5c034360-eff0-4baa-8714-bb84fb088692.png)
+For Lot 1, our t-test returned a p-value of 1, meaning that we do not reject the null hypothesis and we can assume the mean for this lot is not statistically different than the population mean. 
+
+##### Figure 6: T-Test for Lot 2
+![Lot 2 T-Test - Deliverable 3](https://user-images.githubusercontent.com/81983110/127787122-125eb6de-455a-4055-997b-4ad63c0f27c2.png)
+For Lot 2, our t-test returned a p-value of 0.6072, meaning that we do not reject the null hypothesis and we can assume the mean for this lot is not statistically different than the population mean. 
+
+##### Figure 7: T-Test for Lot 3
+![Lot 3 T-Test - Deliverable 3](https://user-images.githubusercontent.com/81983110/127787124-7583af03-33ef-4931-b9d6-6c9cd2e5cd22.png)
+For Lot 2, our t-test returned a p-value of 0.04168, meaning that we do reject the null hypothesis and we can assume the mean for this lot is statistically different than the population mean. 
