@@ -36,7 +36,7 @@ For Lot 2, our t-test returned a p-value of 0.6072, meaning that we do not rejec
 ##### Figure 7: T-Test for Lot 3
 ![Lot 3 T-Test - Deliverable 3](https://user-images.githubusercontent.com/81983110/127787124-7583af03-33ef-4931-b9d6-6c9cd2e5cd22.png)
 
-For Lot 2, our t-test returned a p-value of 0.04168, meaning that we do reject the null hypothesis and we can assume the mean for this lot is statistically different than the population mean. 
+For Lot 3, our t-test returned a p-value of 0.04168, meaning that we do reject the null hypothesis and we can assume the mean for this lot is statistically different than the population mean. 
 
 ## Deliverable 4: Study Comparing the MechaCar to the Competition
 When designing a study to assess the performance of MechaCar's against the competition, I started by research what factors may be driving car-buying in consumers in recent years. According to research conducted by the Federal Reserve, the age distribution of new car buyers is trending towards older buyers. Another article I found posited that car buyers tend to be from two-income households. Taken together, I felt the most salient observations for performance would reference considerations for 'family-friendly' cars. Parents.com and USNews.com both reference updates to breaking technology as key features of top cars for family. Therefore, my study would focus on the breaking capabilities of MechaCar's prototypes against other manufacturers.
