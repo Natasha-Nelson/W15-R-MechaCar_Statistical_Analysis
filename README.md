@@ -43,8 +43,11 @@ When designing a study to assess the performance of MechaCar's against the compe
 
 #### References:
 https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/the-young-and-the-carless-the-demographics-of-new-vehicle-purchases-20160624.html
+
 https://hedgescompany.com/blog/2019/01/new-car-buyer-demographics-2019/#in-market_new_vehicle_buyer_audiences
+
 https://cars.usnews.com/cars-trucks/best-cars-for-families
+
 https://www.parents.com/parenting/money/car-buying/best-family-cars/
 
 ### Metrics and Hypothesis:
