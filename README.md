@@ -37,3 +37,17 @@ For Lot 2, our t-test returned a p-value of 0.6072, meaning that we do not rejec
 ![Lot 3 T-Test - Deliverable 3](https://user-images.githubusercontent.com/81983110/127787124-7583af03-33ef-4931-b9d6-6c9cd2e5cd22.png)
 
 For Lot 2, our t-test returned a p-value of 0.04168, meaning that we do reject the null hypothesis and we can assume the mean for this lot is statistically different than the population mean. 
+
+## Deliverable 4: Study Comparing the MechaCar to the Competition
+When designing a study to assess the performance of MechaCar's against the competition, I started by research what factors may be driving car-buying in consumers in recent years. According to research conducted by the Federal Reserve, the age distribution of new car buyers is trending towards older buyers. Another article I found posited that car buyers tend to be from two-income households. Taken together, I felt the most salient observations for performance would reference considerations for 'family-friendly' cars. Parents.com and USNews.com both reference updates to breaking technology as key features of top cars for family. Therefore, my study would focus on the breaking capabilities of MechaCar's prototypes against other manufacturers.
+
+#### References:
+https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/the-young-and-the-carless-the-demographics-of-new-vehicle-purchases-20160624.html
+https://hedgescompany.com/blog/2019/01/new-car-buyer-demographics-2019/#in-market_new_vehicle_buyer_audiences
+https://cars.usnews.com/cars-trucks/best-cars-for-families
+https://www.parents.com/parenting/money/car-buying/best-family-cars/
+
+### Metrics and Hypothesis:
+For this study, I propose evaluating the responsiveness of breaks to 'emergency breaking situations'. Given the advancements in car technology, I would attempt to study breaking when a signal received from an automatic sensor in the car (eg. a camera detects an obstacle) and 
+
+
