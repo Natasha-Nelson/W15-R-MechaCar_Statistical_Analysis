@@ -58,6 +58,7 @@ The average breaking distance for MechaCar's prototypes at 40 mph under normal d
 
 #### References:
 https://safety.fhwa.dot.gov/speedmgt/ref_mats/fhwasa16076/fhwasa16076.pdf
+
 https://en.wikipedia.org/wiki/Braking_distance
 
 ### Study Design: Statistical Testing Methodology and Data Collection
