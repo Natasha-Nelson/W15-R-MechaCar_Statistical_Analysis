@@ -48,6 +48,27 @@ https://cars.usnews.com/cars-trucks/best-cars-for-families
 https://www.parents.com/parenting/money/car-buying/best-family-cars/
 
 ### Metrics and Hypothesis:
-For this study, I propose evaluating the responsiveness of breaks to 'emergency breaking situations'. Given the advancements in car technology, I would attempt to study breaking when a signal received from an automatic sensor in the car (eg. a camera detects an obstacle) and 
+For this study, I propose evaluating the responsiveness of breaks to 'emergency breaking situations'. Given the advancements in car technology, I would attempt to study breaking after a driver manipulates the breakpad. According to the Federal Highway Administration, the example statutory speed limit for school districts is 25 mph. For our study, we will base our analysis at 40 mph to test for typical suburban driving speeds. In this test, we will examime the average braking distance for MechaCar's prototypes at 40 mph under normal driving conditions (paved roads, no precipitation, no major changes in elevation). Tests should ideally conducted with the same types of tires for all vehicles.
+
+**Null Hypothesis**
+The average breaking distance for MechaCar's prototypes at 40 mph under normal driving conditions is not statistically different from the average breaking distance of other manufacturer's cars. 
+
+**Alternative Hypothesis**
+The average breaking distance for MechaCar's prototypes at 40 mph under normal driving conditions is statistically different from the average breaking distance of other manufacturer's cars.
+
+#### References:
+https://safety.fhwa.dot.gov/speedmgt/ref_mats/fhwasa16076/fhwasa16076.pdf
+https://en.wikipedia.org/wiki/Braking_distance
+
+### Study Design: Statistical Testing Methodology and Data Collection
+For this analysis, I would start by using an ANOVA test to evaluate whether there a statistical difference between the distribution means from multiple samples. For this test, our dataset should include:
+  1. car id
+  2. manufacturer
+  3. car type
+  4. vehicle weight
+  5. break system type
+  6. distance from point of break application to complete stop
+  7. time from point of break application to complete stop 
+
 
 
